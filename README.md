@@ -1,4 +1,4 @@
-# Multi- Reverse Shell Collection
+# Multi Reverse Shell Collection
 
 A curated set of minimal reverse shell implementations for **Windows** and **Linux**, written in multiple programming languages including C, C++, Go, PHP, and Python.
 
