@@ -10,6 +10,15 @@ This repository is intended **strictly for educational purposes, authorized pene
 Unauthorized use or deployment against systems without explicit permission is illegal and unethical.
 
 ---
+## 🚀 Usage
 
-## 📂 Structure
+1. Choose the desired language and platform.
+2. Compile or run the reverse shell according to language-specific instructions.
+3. Start a listener on your attack machine (e.g., `nc -lvnp <port>`).
+4. Execute the reverse shell on the target machine.
 
+
+## 📜 License
+
+This project is provided "as is" without warranty.  
+Use responsibly and legally.
