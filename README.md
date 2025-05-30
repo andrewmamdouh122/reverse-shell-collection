@@ -13,9 +13,10 @@ Unauthorized use or deployment against systems without explicit permission is il
 ## 🚀 Usage
 
 1. Choose the desired language and platform.
-2. Compile or run the reverse shell according to language-specific instructions.
-3. Start a listener on your attack machine (e.g., `nc -lvnp <port>`).
-4. Execute the reverse shell on the target machine.
+2. ```git clone https://github.com/andrewmamdouh122/reverse-shell-collection.git```
+3. Compile or run the reverse shell according to language-specific instructions.
+4. Start a listener on your attack machine (e.g., `nc -lvnp <port>`).
+5. Execute the reverse shell on the target machine.
 
 
 ## 📜 License
